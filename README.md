@@ -1,3 +1,3 @@
 # Screenshot
-	![screenshot](./screenshot/img.png)
+![screenshot](/screenshot/img.png)
  
